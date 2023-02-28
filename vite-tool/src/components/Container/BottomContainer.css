@@ -1,0 +1,26 @@
+.BottomContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 100%;
+  color : #03224C;
+  padding: 2rem 4rem 0 4rem;
+  margin: 5rem 0;
+}
+
+.Card {
+  display: flex;
+  flex-direction: column;
+  max-width: 9rem;
+}
+
+.Card h3 {
+  font-size: 1.4rem;
+  margin: 0.2rem 0.7rem;
+}
+
+.Card p {
+  font-size: 0.8rem;
+  margin: 0 0.7rem;
+  color: rgb(105, 104, 104);
+}

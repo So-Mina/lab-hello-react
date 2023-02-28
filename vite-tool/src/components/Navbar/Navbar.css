@@ -1,0 +1,18 @@
+.Navbar {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  padding: 1rem;
+  margin: 0 auto;
+}
+
+nav {
+  background-color: #03224C;
+  align-content: center;
+}
+
+ul {
+  gap: 80vw;
+  list-style: none;
+  display: flex;
+}

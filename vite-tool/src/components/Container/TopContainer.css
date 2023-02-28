@@ -1,0 +1,20 @@
+.TopContainer {
+  background-color: #03224C;
+  color : white;
+  padding: 2rem 4rem 0 4rem;
+  width: 100%;
+}
+
+.TopContainer h1 {
+  font-size: 4rem;
+}
+
+.TopContainer p {
+  font-size: 1.2rem;
+}
+
+.TopContainer  button {
+  color: #03224C;
+  margin: 3rem 0;
+  padding: 1rem 1.5rem;
+}
